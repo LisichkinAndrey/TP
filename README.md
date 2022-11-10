@@ -58,11 +58,18 @@
  ![1](https://user-images.githubusercontent.com/104509710/201222004-c92a39ff-32f1-4c3f-97f6-88943f2deeda.png)
 Рисунок 1 - Диаграмма BPMN 
 
+Проверка наличия карты у покупателя (рис. 2)
+
+![image](https://user-images.githubusercontent.com/104509710/198518647-e6813505-98d4-4f36-95fd-73cd621c97f6.png)
+Рисунок 2 - Проверка наличия карты у покупателя
+
+
+![image](https://user-images.githubusercontent.com/104509710/198518686-3199c29a-42c5-4911-a886-47864cc092b7.png)
  
 
-![image](https://user-images.githubusercontent.com/104509710/201212243-04be0868-16e1-4d6e-ae91-4959515966a4.png)
-![image](https://user-images.githubusercontent.com/104509710/198518647-e6813505-98d4-4f36-95fd-73cd621c97f6.png)
-![image](https://user-images.githubusercontent.com/104509710/198518686-3199c29a-42c5-4911-a886-47864cc092b7.png)
+
+
+
 ![image](https://user-images.githubusercontent.com/104509710/201212997-8499d610-e386-4f2b-abd1-3df2519ded22.png)
 ![image](https://user-images.githubusercontent.com/104509710/201213046-db14e522-5133-405a-b3e7-ebaf3ee560d7.png)
 
