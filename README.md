@@ -56,7 +56,7 @@
 Диаграмма **BPMN** (рис. 1)
 
  ![1](https://user-images.githubusercontent.com/104509710/201222004-c92a39ff-32f1-4c3f-97f6-88943f2deeda.png)
-Рисунок 1 - Диаграмма BPMN
+Рисунок 1 - Диаграмма BPMN 
 
  
 
