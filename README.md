@@ -121,7 +121,7 @@ Use case не содержbn детали реализации, а также о
 
  Схема базы данных (рис. 5)
  
- ![image](https://user-images.githubusercontent.com/104509710/201224200-3689df32-2169-4c0c-8d29-ff49b3200e1c.png)
+ ![image](https://user-images.githubusercontent.com/104509710/207717217-abab9159-7215-4778-b0e4-995fe458fa21.png)
  
  Рисунок 5 - Схема базы данных "Студия звукозаписи"
 
