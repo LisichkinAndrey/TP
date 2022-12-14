@@ -85,7 +85,7 @@ Use case не содержbn детали реализации, а также о
 
 Диаграмма **BPMN** (рис. 1)
 
- ![1](https://user-images.githubusercontent.com/104509710/201222004-c92a39ff-32f1-4c3f-97f6-88943f2deeda.png)
+ ![6 drawio](https://user-images.githubusercontent.com/104509710/207714883-2e96ef1e-e02d-4690-8468-6ad885be5d2c.png)
  
 Рисунок 1 - Диаграмма BPMN 
 
