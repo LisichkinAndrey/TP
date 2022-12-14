@@ -91,13 +91,13 @@ Use case не содержbn детали реализации, а также о
 
 Проверка наличия карты у покупателя (рис. 2)
 
-![image](https://user-images.githubusercontent.com/104509710/198518647-e6813505-98d4-4f36-95fd-73cd621c97f6.png)
+![3 drawio](https://user-images.githubusercontent.com/104509710/207715557-5c878d59-46f2-4db9-8f83-ae97dfaa2a2f.png)
 
 Рисунок 2 - Проверка наличия карты у покупателя
 
 Оформление скидочной карты (рис. 3)
 
-![image](https://user-images.githubusercontent.com/104509710/198518686-3199c29a-42c5-4911-a886-47864cc092b7.png)
+![4 drawio](https://user-images.githubusercontent.com/104509710/207715779-b730042b-d48c-4440-ac6d-ea6df8bb6a92.png)
 
  Рисунок 3 - Оформление скидочной карты
  
