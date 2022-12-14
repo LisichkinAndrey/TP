@@ -109,7 +109,7 @@ Use case не содержbn детали реализации, а также о
 
   Логическая модель предметной области (рис. 4)
   
-  ![image](https://user-images.githubusercontent.com/104509710/201223467-3054bd86-46c2-4ed7-9d05-3a90e9a77442.png)
+  ![8 drawio](https://user-images.githubusercontent.com/104509710/207716369-11eb8987-1f32-40d5-aea4-78bb6b59bfa7.png)
   
  Рисунок 4 - Логическая модель предметной области "Студия звукозаписи"
  
